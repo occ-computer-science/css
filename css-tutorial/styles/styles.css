@@ -4,11 +4,13 @@
 
 /* HTML and Body Styles */
 
-html {
+html[lang="en"] {
     background-color: black;
 }
 
-
+body {
+    background-color: ivory;
+}
 
 /* Heading Styles */
 
